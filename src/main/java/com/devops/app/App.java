@@ -1,13 +1,13 @@
 package com.devops.app;
 
 /**
- * Hello world!
+ * Test Message!
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello DevOps World!" );
+        System.out.println( "Test Message!" );
     }
 }
